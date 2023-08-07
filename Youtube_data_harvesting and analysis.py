@@ -8,9 +8,9 @@ import mysql.connector
 connect=mysql.connector.connect(
 host='localhost',
 user='root',
-password='Guvi12345',
+password='*********',
 auth_plugin='mysql_native_password')
-api_key='AIzaSyB44kjaL_TvWC4LiuTS2wr3TiV_3-JSExw'
+api_key='############################'
 youtube = build('youtube', 'v3', developerKey=api_key)
 st.set_page_config(layout='wide')
 st.title(':blue[Youtube Data Harvesting Tej]')
@@ -174,7 +174,7 @@ def comment_sql_data():
     return comment_df
 mycursor=connect.cursor()
 mycursor.execute('create database if not exists youtube_data_harvesting')
-engine=create_engine('mysql+mysqlconnector://root:Guvi12345@localhost/youtube_data_harvesting',echo=False)
+engine=create_engine('mysql+mysqlconnector://root:********@localhost/youtube_data_harvesting',echo=False)
 btn2=st.button(':blue[Transfer the data from mongodb to sql]')
 if btn2:
     ch_sql=channel_sql_data()
