@@ -63,8 +63,5 @@ Hi this is Tejesh and this my first data science project : Youtube Data Harvesti
   
   ![image](https://github.com/Tejesh-25/YouTube_Data_Harvesting_Tej/assets/140998711/0b904d4e-9aed-4c17-b946-ce2cede1e845)
 
-  
-  ![image](https://github.com/Tejesh-25/YouTube_Data_Harvesting_Tej/assets/140998711/81ce6b4b-e1e7-492c-9729-c89fd7fcf378)
-
 
   
