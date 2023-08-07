@@ -58,9 +58,13 @@ Hi this is Tejesh and this my first data science project : Youtube Data Harvesti
   below the data_scrab button there will be another button named as store_data_mongodb if i click that button it will stored the data scessfully.
 ## Step-3 : Transfer the Data
   If I press the third button named as (Transfer_data_mongodb_to_sql).It will be scessfully tranfer the entire data to mysql from mongo db.
-## Step : Frequently Asked Questions
+## Step-4 : Frequently Asked Questions
   Select a Question from the dropdown option you can get the results in Dataframe format or bar chat format.
   
+  ![image](https://github.com/Tejesh-25/YouTube_Data_Harvesting_Tej/assets/140998711/0b904d4e-9aed-4c17-b946-ce2cede1e845)
+
   
+  ![image](https://github.com/Tejesh-25/YouTube_Data_Harvesting_Tej/assets/140998711/81ce6b4b-e1e7-492c-9729-c89fd7fcf378)
+
 
   
