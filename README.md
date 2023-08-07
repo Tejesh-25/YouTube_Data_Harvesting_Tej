@@ -7,11 +7,11 @@ Hi this is Tejesh and this my first data science project : Youtube Data Harvesti
 
 # Devloper Guide
 ## 1.Tools Install
-  Visual Studio Code.
-  Python 3.11.0 or higher.
-  MongoDB.
-  MYSQL.
-  Youtube Api Key.
+*Visual Studio Code.
+*Python 3.11.0 or higher.
+*MongoDB.
+*MYSQL.
+*Youtube Api Key.
 
 ## 2.Requirement Libraries to Install
   pip install google-api-python-client.
