@@ -1,6 +1,6 @@
 # YouTube_Data_Harvesting_Tej
 ## INTRODUCTION
-Hi this is Tejesh and this my first data science project : Youtube Data Harvesting. While doing this project I have extract the data from Youtube with the help of channel Id,I have get the data in the form of unstructured so I have planned to store into mongodb. After storing the data into mongodb I need to transfer unstructural form to the structural form so,I have planned to store into MYSQL and then analysing data depending on the customer questions by using streamlit apllication.
+Hi this is Tejesh and this is my first data science project : YouTube Data Harvesting and Warehousing. While doing this project I have extract the data from YouTube with the help of channel Id, After extracting the data's I get the data in the form of unstructured so I have planned to store into MongoDB. After storing the data into MongoDB I need to transfer unstructured form to the structured form so, I have planned to store the data into MYSQL and then analyzing the data's depending on the query's and Visualizing using Streamlit application.
 
 
 ![image](https://github.com/Tejesh-25/YouTube_Data_Harvesting_Tej/assets/140998711/9550cf99-8b4a-49f8-bb93-01faa85b894c)
